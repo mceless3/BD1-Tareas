@@ -1,1 +1,4 @@
-# Tareas
+# Tareas Bases de Datos 1
+Manejo de archivos de datos
+Al desarrollar este proyecto, me di cuenta que procesar correctamente un archivo csv podría ser un reto, por su gran tamaño y formato. Comencé a trabajar utilizando las herramientas que conocía para leer los datos, almacenarlos y contar, pero me di cuenta que el programa se volvía muy complicado, y batalle para que mi código hiciera el conteo correcto, por ello mejor investigue que era un hashmap y como implementarlo y simplificó mucho mi código. Estime que me tardaría unos 10 min en analizar la estructura del archivo, unas 3 horas codificando y 1 hora para pruebas y documentación. Ya al terminar, en realidad tarde unas 4 horas y media trabajando en el código y casi una hora para hacer pruebas y documentar, tarde más por qué tenia que familiarizarme con herramientas nuevas para mi. 
+Al final pude aprender a usar estructuras más dinámicas como HashMap para gestionar la información de archivos grandes.
